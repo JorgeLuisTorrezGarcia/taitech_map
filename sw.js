@@ -1,10 +1,11 @@
 // Service worker: guarda la app y las librerías para abrirla rápido y sin conexión.
 // Los mapas (tiles) y las APIs externas siempre van por red. Sube V cuando cambies archivos.
-const V = 'micros-v1';
-const SHELL = ['./', 'index.html', 'rutas_micro_scz.geojson', 'manifest.json', 'icon-192.png', 'icon-512.png',
+const V = 'micros-v5';
+const SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'rutas_micro_scz.geojson', 'categoria_lugares.json', 'manifest.json', 'icon-192.png', 'icon-512.png',
   'https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js',
   'https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css',
-  'https://cdn.jsdelivr.net/npm/@turf/turf@7.1.0/turf.min.js'];
+  'https://cdn.jsdelivr.net/npm/@turf/turf@7.1.0/turf.min.js',
+  'https://cdn.jsdelivr.net/npm/rbush@3.0.1/rbush.min.js'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(V).then(c => Promise.all(SHELL.map(u => c.add(u).catch(() => {})))));
   self.skipWaiting();
