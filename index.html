@@ -1,48 +1,78 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Micros Santa Cruz</title>
-<link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#5b8c00">
-<link rel="apple-touch-icon" href="icon-192.png">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css">
-<link rel="stylesheet" href="styles.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Micros Santa Cruz</title>
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#5b8c00">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<div id="map"></div>
-<button class="fab" id="fLoc" style="bottom:calc(var(--sh,60px) + 12px)">◎</button>
-<button class="fab" id="fFit" style="bottom:calc(var(--sh,60px) + 66px)">⤢</button>
-<button class="fab" id="fClr" title="Limpiar mapa" style="bottom:calc(var(--sh,60px) + 120px)">🧹</button>
-<button class="fab" id="fTrk" title="Iniciar viaje" style="bottom:calc(var(--sh,60px) + 174px)">▶</button>
-<div id="sheet">
-  <div id="tabs"><button id="tL" class="on">Líneas</button><button id="tN">Cerca</button><button id="tA">A → B</button><button id="tP">Lugares</button><button id="tX" style="flex:0 0 42px">▾</button></div>
-  <div id="body">
-    <div id="pL"><input id="q" type="text" placeholder="Buscar línea (ej. 72)">
-      <div class="row"><button id="shAll">Ver todas</button><button id="shNone">Ocultar todas</button></div><small>Marca ☑ para dibujar la línea. S1/S2 = sentido; las flechas indican hacia dónde va.</small><div id="list"></div></div>
-    <div id="pO" style="display:none">
-      <div class="row"><label>Radio</label><input type="number" id="rad" min="5" max="3000" step="5" value="500"><select id="ru" style="width:64px"><option>m</option><option>km</option></select>
-      <label style="white-space:nowrap"><input type="checkbox" id="dir" checked> sentido</label></div>
-      <div id="abrows">
-        <div class="row ab"><b>A</b><input type="text" id="aI" placeholder="Toca el mapa, ◎, o pega enlace/coordenadas"><button id="aL">◎</button><button id="aC">📋</button></div>
-        <div class="row ab"><b>B</b><input type="text" id="bI" placeholder="Destino: mapa, ◎, o pega enlace/coordenadas"><button id="bL">◎</button><button id="bC">📋</button></div>
-        <div class="row"><button id="sw">⇅</button><button id="cfg" title="Resolvedor de enlaces cortos">⚙</button><label>Transbordo máx</label><select id="tr"><option>100</option><option>200</option><option selected>300</option><option>500</option></select><span>m</span></div>
+  <div id="map"></div>
+  <button class="fab" id="fLoc" style="bottom:calc(var(--sh,60px) + 12px)">◎</button>
+  <button class="fab" id="fFit" style="bottom:calc(var(--sh,60px) + 66px)">⤢</button>
+  <button class="fab" id="fClr" title="Limpiar mapa" style="bottom:calc(var(--sh,60px) + 120px)">🧹</button>
+  <button class="fab" id="fTrk" title="Iniciar viaje" style="bottom:calc(var(--sh,60px) + 174px)">▶</button>
+  <div id="sheet">
+    <div id="tabs"><button id="tL" class="on">Líneas</button><button id="tN">Cerca</button><button id="tA">A →
+        B</button><button id="tP">Lugares</button><button id="tX" style="flex:0 0 42px">▾</button></div>
+    <div id="body">
+      <div id="pL"><input id="q" type="text" placeholder="Buscar línea (ej. 72)">
+        <div class="row"><button id="shAll">Ver todas</button><button id="shNone">Ocultar todas</button></div>
+        <small>Marca ☑ para dibujar la línea. S1/S2 = sentido; las flechas indican hacia dónde va.</small>
+        <div id="list"></div>
       </div>
-      <div id="routeLoading" role="status" aria-live="polite" hidden><span class="spinner"></span>Calculando ruta…</div>
-      <div id="msg"></div><div id="out"></div><div id="steps"></div></div>
-    <div id="pP" style="display:none">
-      <div class="row"><button id="bCat">Actualizar categorías</button></div>
-      <div id="cats"></div><div id="msg3" style="color:var(--muted)"></div>
+      <div id="pO" style="display:none">
+        <div class="row"><label>Radio</label><input type="number" id="rad" min="5" max="3000" step="5"
+            value="100"><select id="ru" style="width:64px">
+            <option>m</option>
+            <option>km</option>
+          </select>
+          <label style="white-space:nowrap"><input type="checkbox" id="dir" checked> sentido</label>
+        </div>
+        <div id="abrows">
+          <div class="row ab"><b>A</b><input type="text" id="aI"
+              placeholder="Toca el mapa, ◎, o pega enlace/coordenadas"><button id="aL">◎</button><button
+              id="aC">📋</button></div>
+          <div class="row ab"><b>B</b><input type="text" id="bI"
+              placeholder="Destino: mapa, ◎, o pega enlace/coordenadas"><button id="bL">◎</button><button
+              id="bC">📋</button></div>
+          <div class="row"><button id="sw">⇅</button><button id="cfg"
+              title="Resolvedor de enlaces cortos">⚙</button><label>Transbordo máx</label><select id="tr">
+              <option selected>100</option>
+              <option>200</option>
+              <option>300</option>
+              <option>500</option>
+            </select><span>m</span></div>
+        </div>
+        <div id="routeLoading" role="status" aria-live="polite" hidden><span class="spinner"></span>Calculando ruta…
+        </div>
+        <div id="msg"></div>
+        <div id="out"></div>
+        <div id="steps"></div>
+      </div>
+      <div id="pP" style="display:none">
+        <div class="row"><button id="bCat">Actualizar categorías</button></div>
+        <div id="cats"></div>
+        <div id="msg3" style="color:var(--muted)"></div>
+      </div>
     </div>
   </div>
-</div>
-<div id="win"><div id="wb"><div class="row"><b id="wt" style="flex:1"></b><button id="wf">Ver todos</button><button id="wx">✕</button></div>
-<input type="text" id="wq" placeholder="Filtrar…" style="width:100%"><div id="wl"></div></div></div>
-<div id="toast"></div>
-<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@turf/turf@7.1.0/turf.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/rbush@3.0.1/rbush.min.js"></script>
-<script src="app.js" defer></script>
+  <div id="win">
+    <div id="wb">
+      <div class="row"><b id="wt" style="flex:1"></b><button id="wf">Ver todos</button><button id="wx">✕</button></div>
+      <input type="text" id="wq" placeholder="Filtrar…" style="width:100%">
+      <div id="wl"></div>
+    </div>
+  </div>
+  <div id="toast"></div>
+  <script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@turf/turf@7.1.0/turf.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/rbush@3.0.1/rbush.min.js"></script>
+  <script src="app.js" defer></script>
 </body>
+
 </html>
