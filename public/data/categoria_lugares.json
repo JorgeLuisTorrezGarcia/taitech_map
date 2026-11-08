@@ -1,0 +1,80 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "type_name": "Oficinas de Gobierno"
+        },
+        {
+            "id": "2",
+            "type_name": "Centros Comerciales"
+        },
+        {
+            "id": "3",
+            "type_name": "Centros de Salud"
+        },
+        {
+            "id": "4",
+            "type_name": "Universidades"
+        },
+        {
+            "id": "5",
+            "type_name": "Centros Culturales"
+        },
+        {
+            "id": "6",
+            "type_name": "Museos"
+        },
+        {
+            "id": "7",
+            "type_name": "Deportes"
+        },
+        {
+            "id": "8",
+            "type_name": "Cementerios"
+        },
+        {
+            "id": "9",
+            "type_name": "Iglesias"
+        },
+        {
+            "id": "10",
+            "type_name": "Mercados"
+        },
+        {
+            "id": "11",
+            "type_name": "Atractivos Turisticos"
+        },
+        {
+            "id": "12",
+            "type_name": "Monumentos"
+        },
+        {
+            "id": "13",
+            "type_name": "Parques"
+        },
+        {
+            "id": "14",
+            "type_name": "Plazas"
+        },
+        {
+            "id": "20",
+            "type_name": "Transportes"
+        },
+        {
+            "id": "22",
+            "type_name": "Colegios"
+        },
+        {
+            "id": "23",
+            "type_name": "Policía"
+        },
+        {
+            "id": "24",
+            "type_name": "ProSalud"
+        },
+        {
+            "id": "25",
+            "type_name": "Guarderías"
+        }
+    ]
+}

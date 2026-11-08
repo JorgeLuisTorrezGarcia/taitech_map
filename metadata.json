@@ -1,0 +1,6 @@
+{
+  "name": "Micros Santa Cruz – Rutas y Tránsito",
+  "description": "Mapa interactivo de líneas de micros en Santa Cruz de la Sierra, Bolivia. Consulta rutas cercanas, calcula recorridos de A a B con transbordos y explora datos GeoJSON con alto rendimiento.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "5",
+    "name": "Normal Enrique Finot",
+    "category": "Universidades",
+    "lat": -17.763401518818135,
+    "lon": -63.19540706931249,
+    "dir": "Av San Martín entre 3er anillo interno y externo",
+    "desc": "Escuela Superior de Formacion de Maestros.\nMatemática - Física - Quimica - Biologia - Lenguaje - Geografia - Psicologia - Filosofia - Ciencias Sociales - Inicial - Educación Musical - Artes Plasticas o Visuales - Educación Fisica, Deportes y Recreación"
+  },
+  {
+    "id": "9",
+    "name": "U.A.G.R.M. Facultad de Arquitectura ",
+    "category": "Universidades",
+    "lat": -17.769908520497932,
+    "lon": -63.19205582141877,
+    "dir": "Av. San Martín esq. Calle Güemes",
+    "desc": "Facultad de Ciencias del Hábitat, Diseño y Arte de la Universidad Autónoma Gabriel René Moreno en la que se dictan programas de:\n\nArquitectura Moda y Diseño\nArte y Bellas Artes\nMedio Ambiente y Geología\nCarreras Universitarias"
+  },
+  {
+    "id": "2037",
+    "name": "Universidad Autónoma Gabriel René Moreno ",
+    "category": "Universidades",
+    "lat": -17.774121070471818,
+    "lon": -63.19771092385053,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "129",
+    "name": "UNIFRANZ",
+    "category": "Universidades",
+    "lat": -17.77387427264696,
+    "lon": -63.192356899380684,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "120",
+    "name": "Instituto Tecnológico Santa Cruz",
+    "category": "Universidades",
+    "lat": -17.768996353864864,
+    "lon": -63.156766667962074,
+    "dir": "",
+    "desc": "3er Anillo, Av. Paragua"
+  },
+  {
+    "id": "136",
+    "name": "UNIVALLE",
+    "category": "Universidades",
+    "lat": -17.7226386328512,
+    "lon": -63.17450881004334,
+    "dir": "",
+    "desc": "Universidad del Valle"
+  },
+  {
+    "id": "112",
+    "name": "E.M.I.",
+    "category": "Universidades",
+    "lat": -17.811854475361507,
+    "lon": -63.178446292877204,
+    "dir": "",
+    "desc": "Escuela Militar de Ingeniería"
+  },
+  {
+    "id": "131",
+    "name": "U.A.G.R.M. Facultad de Ciencias Agrícolas ",
+    "category": "Universidades",
+    "lat": -17.69758790113406,
+    "lon": -63.14544439315796,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "163",
+    "name": "UPDS",
+    "category": "Universidades",
+    "lat": -17.758337585963808,
+    "lon": -63.17449271678925,
+    "dir": "",
+    "desc": "Universidad Privada Domingo Savio"
+  },
+  {
+    "id": "161",
+    "name": "UNE",
+    "category": "Universidades",
+    "lat": -17.766220204807166,
+    "lon": -63.101305961608894,
+    "dir": "",
+    "desc": "Universidad Nacional Ecológica"
+  },
+  {
+    "id": "228",
+    "name": "UCEBOL",
+    "category": "Universidades",
+    "lat": -17.73107044586987,
+    "lon": -63.17024409770966,
+    "dir": "",
+    "desc": "Universidad Cristiana de Bolivia"
+  },
+  {
+    "id": "272",
+    "name": "NUR",
+    "category": "Universidades",
+    "lat": -17.76895005801694,
+    "lon": -63.18270932883024,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "261",
+    "name": "U.A.G.R.M. MÓDULOS ",
+    "category": "Universidades",
+    "lat": -17.775139473616044,
+    "lon": -63.19509744644166,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "252",
+    "name": "INFOCAL",
+    "category": "Universidades",
+    "lat": -17.77844464315489,
+    "lon": -63.15402746200562,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "267",
+    "name": "UNIBETH",
+    "category": "Universidades",
+    "lat": -17.758163766581607,
+    "lon": -63.167712092399604,
+    "dir": "",
+    "desc": "UNIVERSIDAD BETHESDA"
+  },
+  {
+    "id": "270",
+    "name": "UPB",
+    "category": "Universidades",
+    "lat": -17.81943399235901,
+    "lon": -63.23397874832154,
+    "dir": "Av. Piraí entre 6to y 7mo Anillo",
+    "desc": "Universidad Privada Boliviana"
+  },
+  {
+    "id": "294",
+    "name": "UCB",
+    "category": "Universidades",
+    "lat": -17.69475736316324,
+    "lon": -63.15014362335206,
+    "dir": "",
+    "desc": "Universidad Católica Boliviana"
+  },
+  {
+    "id": "293",
+    "name": "UEB",
+    "category": "Universidades",
+    "lat": -17.835857075817493,
+    "lon": -63.20452809333802,
+    "dir": "",
+    "desc": "Universidad Evangélica Boliviana "
+  },
+  {
+    "id": "355",
+    "name": "UNO",
+    "category": "Universidades",
+    "lat": -17.776589316148993,
+    "lon": -63.183456659317024,
+    "dir": "",
+    "desc": "Universidad Nacional del Oriente"
+  },
+  {
+    "id": "354",
+    "name": "UPSA",
+    "category": "Universidades",
+    "lat": -17.76303788987004,
+    "lon": -63.147697448730476,
+    "dir": "",
+    "desc": "Universidad Privada de Santa Cruz de la Sierra"
+  },
+  {
+    "id": "336",
+    "name": "U.A.G.R.M. Campus Central",
+    "category": "Universidades",
+    "lat": -17.777714193370887,
+    "lon": -63.1911063194275,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "329",
+    "name": "UTEPSA",
+    "category": "Universidades",
+    "lat": -17.76757418562548,
+    "lon": -63.20093929767609,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "301",
+    "name": "UDI",
+    "category": "Universidades",
+    "lat": -17.734349797627885,
+    "lon": -63.169696927070625,
+    "dir": "Av. Cristo Redentor entre Quinto y, Sexto anillo",
+    "desc": "Universidad para el Desarrollo y la Innovación"
+  },
+  {
+    "id": "377",
+    "name": "UDABOL",
+    "category": "Universidades",
+    "lat": -17.76857070091041,
+    "lon": -63.20155620574952,
+    "dir": "Av. Noel Kempff Mercado",
+    "desc": ""
+  },
+  {
+    "id": "398",
+    "name": "ITDS",
+    "category": "Universidades",
+    "lat": -17.782199310606043,
+    "lon": -63.174186944961555,
+    "dir": "Calle Bolivar #650",
+    "desc": "Instituto Técnico Domingo Savio "
+  },
+  {
+    "id": "491",
+    "name": "UNANDES",
+    "category": "Universidades",
+    "lat": -17.776580147934965,
+    "lon": -63.17045331800699,
+    "dir": "Av. Suarez Arana a 2 cuadras del 1er Anillo",
+    "desc": "Universidad de los Andes"
+  },
+  {
+    "id": "490",
+    "name": "Instituto Técnico Santo Domingo",
+    "category": "Universidades",
+    "lat": -17.79656771801415,
+    "lon": -63.15402207960071,
+    "dir": "Av. 3 Pasos al Frente, entre 3er y 4to Anillo",
+    "desc": "Instituto Técnico"
+  },
+  {
+    "id": "500",
+    "name": "Universidad Privada Cumbre",
+    "category": "Universidades",
+    "lat": -17.77897076854618,
+    "lon": -63.18882641578378,
+    "dir": "1er Anillo, entre Calle Rafael Peña y Calle Cuellar",
+    "desc": ""
+  },
+  {
+    "id": "530",
+    "name": "Instituto Iptabol",
+    "category": "Universidades",
+    "lat": -17.78550933777926,
+    "lon": -63.187163476172685,
+    "dir": "Calle Sarah @ Calle Ingavi",
+    "desc": ""
+  },
+  {
+    "id": "529",
+    "name": "Escuela El Maná",
+    "category": "Universidades",
+    "lat": -17.782919418534256,
+    "lon": -63.17330726034641,
+    "dir": "Calle Sucre @ Calle Barron",
+    "desc": "Cursos de  repostería, maquillaje, cortes de cabello entre otros"
+  },
+  {
+    "id": "6",
+    "name": "Comercial Grigotá",
+    "category": "Centros Comerciales",
+    "lat": -17.794,
+    "lon": -63.187367,
+    "dir": "Avenida Omar Chavez Ortiz, Zona La Ramada",
+    "desc": "Venta de todo tipo de artículos"
+  },
+  {
+    "id": "138",
+    "name": "Comercial Cañoto",
+    "category": "Centros Comerciales",
+    "lat": -17.780830136748943,
+    "lon": -63.18957746028901,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "201",
+    "name": "Ventura Mall",
+    "category": "Centros Comerciales",
+    "lat": -17.754972431468687,
+    "lon": -63.19923168691494,
+    "dir": "4to Anillo @ Av. San Martín",
+    "desc": ""
+  },
+  {
+    "id": "330",
+    "name": "Centro Comercial Las Brisas",
+    "category": "Centros Comerciales",
+    "lat": -17.749310065640792,
+    "lon": -63.17587673664094,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "367",
+    "name": "FEXPOCRUZ",
+    "category": "Centros Comerciales",
+    "lat": -17.785279295790616,
+    "lon": -63.20826709270478,
+    "dir": "Av. Roca y coronado entre 3er y 4to anillo",
+    "desc": "Feria internacional que se realiza una vez al año en el mes de septiembre, pero que en otras fechas se realizan distintos eventos"
+  },
+  {
+    "id": "409",
+    "name": "Patio Design",
+    "category": "Centros Comerciales",
+    "lat": -17.771640339063893,
+    "lon": -63.20181369781495,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "2",
+    "name": "Centro Comercial Chiriguano",
+    "category": "Centros Comerciales",
+    "lat": -17.790367914490947,
+    "lon": -63.20577385811139,
+    "dir": "Av Roque Aguilera entre 3er anillo externo e interno",
+    "desc": "Centro comercial de equipos informáticos, tenemos una filosofía basada en brindar la mejor atención directa al público, en innovación tecnológica y en flexibilidad organizacional.\n\nVen y prueba tu producto antes de comprarlo, Su satisfacción es lo primero, tenemos las mejores ofertas, el mejor ambiente y variedad de opciones para usted. Los esperamos."
+  },
+  {
+    "id": "2062",
+    "name": "Feria de la computadora",
+    "category": "Centros Comerciales",
+    "lat": -17.78804783497881,
+    "lon": -63.167840858294795,
+    "dir": "",
+    "desc": "venta y reparacion de computadoras"
+  },
+  {
+    "id": "4",
+    "name": "Centro de Salud Antofagasta",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.82722160574351,
+    "lon": -63.2129395,
+    "dir": "B/Antofagasta Avenida San Martín entre 5º y 6º anillo, se entra 5 cuadras por la calle B",
+    "desc": "Bioseguridad en todo momento😷\n👍💉💊"
+  },
+  {
+    "id": "11",
+    "name": "Centro de Salud Vida y Esperanza",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.81413226918392,
+    "lon": -63.1053829,
+    "dir": "Barrio Primavera entre calle Paraíso y calle 7 copas",
+    "desc": "Centro médico"
+  },
+  {
+    "id": "14",
+    "name": "Centro de Salud Virgen de Fátima",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.815107985020408,
+    "lon": -63.199392030692,
+    "dir": "Entre 3er y 4to anillo. Barrio Villa Fatima Av. Fátima N˚ 510. Ingresando por la Av. Escuadrón Velasco y continuando la Av. Fátima. Frente a la plazuela del mismo nombre.",
+    "desc": "Centro médico"
+  },
+  {
+    "id": "99",
+    "name": "Hospital Obrero (400 Camas)",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.767272587055935,
+    "lon": -63.15805077552796,
+    "dir": " Av Dr Lucas Saucedo",
+    "desc": ""
+  },
+  {
+    "id": "116",
+    "name": "Red Municipal de Salud Centro",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.754951017355115,
+    "lon": -63.18479776382447,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "144",
+    "name": "Cenetrop",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.77890971819492,
+    "lon": -63.19397628307343,
+    "dir": "Av. 26 De Febrero",
+    "desc": ""
+  },
+  {
+    "id": "118",
+    "name": "Centro de Salud San Luis",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.78192334173252,
+    "lon": -63.2005798816681,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "140",
+    "name": "Centro de Salud Los Tusequis",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.74209108510695,
+    "lon": -63.15510034561158,
+    "dir": "",
+    "desc": "centro de rehabilitación de niños quemados"
+  },
+  {
+    "id": "142",
+    "name": "CIES",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.76083550116519,
+    "lon": -63.16682159900666,
+    "dir": "Av. Alemana esq. 3er Anillo Interno",
+    "desc": "Regional Santa Cruz"
+  },
+  {
+    "id": "160",
+    "name": "Hospital Municipal Pampa de la Isla",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.758222827281784,
+    "lon": -63.1070713698864,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "189",
+    "name": "Hospital Municipal Frances",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.854269523796614,
+    "lon": -63.18971425294876,
+    "dir": "Av. Santos Dumont Urbanizacion Paititi Uv. 129",
+    "desc": ""
+  },
+  {
+    "id": "173",
+    "name": "Hospital San Juan de Dios",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.77918033744898,
+    "lon": -63.18605303764344,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "157",
+    "name": "KOLPING",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.773526590501895,
+    "lon": -63.171665668487556,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "159",
+    "name": "Red de Salud Este",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.81521545475203,
+    "lon": -63.134726285934455,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "178",
+    "name": "Centro Municipal del Adulto Mayor DM-3",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.79465233943771,
+    "lon": -63.152997493743904,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "177",
+    "name": "Hospital Municipal El Patujú",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.81359111669969,
+    "lon": -63.075288534164436,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "212",
+    "name": "Cento de Salud San Agustín ",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.840018864471677,
+    "lon": -63.11993122100831,
+    "dir": "",
+    "desc": "Centro de Salud San Agustín "
+  },
+  {
+    "id": "232",
+    "name": "Centro de Salud Los Cusis",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.735607128277177,
+    "lon": -63.07701587677003,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "237",
+    "name": "Hospital Universitario Hernández Vera",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.797732403122673,
+    "lon": -63.13560605049134,
+    "dir": "",
+    "desc": "Av. Principal 1ro de Mayo"
+  },
+  {
+    "id": "248",
+    "name": "Hospital Japonés",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.773121841136465,
+    "lon": -63.15502524375916,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "235",
+    "name": "Centro de Salud Wille Lemaitre",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.770189478876524,
+    "lon": -63.197860121727,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "280",
+    "name": "Hospital Municipal DM-10",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.81647673534771,
+    "lon": -63.233141899108894,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "307",
+    "name": "Hospital Guaracachi",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.785565250155887,
+    "lon": -63.14668357372285,
+    "dir": "4to Anillo y Av Brasil",
+    "desc": ""
+  },
+  {
+    "id": "290",
+    "name": "Centro De Salud 12 De Diciembre",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.819428389964248,
+    "lon": -63.130493760108955,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "352",
+    "name": "Hospital Municipal Bajío del Oriente",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.83198102404607,
+    "lon": -63.20971012115479,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "278",
+    "name": "Hospital Cossmil",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.783951270667075,
+    "lon": -63.18698108196259,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "186",
+    "name": "Centro Médico Elvira Wunderlich",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.80205328606798,
+    "lon": -63.18352639675141,
+    "dir": "Barrio Ramafa",
+    "desc": ""
+  },
+  {
+    "id": "184",
+    "name": "Hospital de Niños Dr. Mario Ortíz Suárez",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.780641131516855,
+    "lon": -63.18634271621705,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "181",
+    "name": "Hospital Obrero Villa 1ro de Mayo",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.80750298737737,
+    "lon": -63.1383365392685,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "312",
+    "name": "Centro de Salud 25 de Diciembre ",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.81543940942693,
+    "lon": -63.14215064048768,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "302",
+    "name": "Centro Terapéutico de Rehabilitación ",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.844982556697996,
+    "lon": -63.1931233406067,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "374",
+    "name": "Hospital Psiquiátrico Benito Menni",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.807227230498118,
+    "lon": -63.22805643081666,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "378",
+    "name": "Hospital Las Américas",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.85859528517741,
+    "lon": -63.1931233406067,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "379",
+    "name": "Hospital Oncológico",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.763170422783876,
+    "lon": -63.193938732147224,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "417",
+    "name": "Centro de Salud Municipal Tierras Nuevas",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.84888859117292,
+    "lon": -63.215364217758186,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "428",
+    "name": "Centro de Salud Santa Isabel",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.769841952763723,
+    "lon": -63.15064787864686,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "419",
+    "name": "Centro de Salud Cañada el Carmen",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.81008236133084,
+    "lon": -63.153217434883125,
+    "dir": "Av. Leonardo Da Vinci ",
+    "desc": ""
+  },
+  {
+    "id": "433",
+    "name": "Centro Municipal del Adulto Mayor DM-4",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.82204346000459,
+    "lon": -63.1871259212494,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "450",
+    "name": "Red de Salud Sur",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.84620272299194,
+    "lon": -63.185897469520576,
+    "dir": "Av. Santos Dumont zona 6to Anillo",
+    "desc": ""
+  },
+  {
+    "id": "527",
+    "name": "CERNIQUEM",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.74188668406209,
+    "lon": -63.15565824508668,
+    "dir": "",
+    "desc": "Centro Rehabilitación de Niños Quemados"
+  },
+  {
+    "id": "533",
+    "name": "Hospital Municipal El Recreo DM-13",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.88388660474076,
+    "lon": -63.096151086923385,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "568",
+    "name": "Centro Médico 18 de Marzo ",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.792666648347236,
+    "lon": -63.12266740947962,
+    "dir": "Av. Cumavi @ zona Av. 16 de Julio",
+    "desc": ""
+  },
+  {
+    "id": "632",
+    "name": "Hospital INSO",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.808243613603242,
+    "lon": -63.20018828314902,
+    "dir": "Av. Escuadron Velasco @ Calle Regimiento Lanza",
+    "desc": "Instituto Nacional de Salud Ocupacional  - Atención de 7 AM a 1 PM"
+  },
+  {
+    "id": "611",
+    "name": "APRECIA",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.766617051039844,
+    "lon": -63.20061173290014,
+    "dir": "Lateral a UTEPSA",
+    "desc": "Servicio de Oftalmología  Atención Lunes a Viernes 7am - 12pm y 2pm - 5pm"
+  },
+  {
+    "id": "673",
+    "name": "Hospital Materno Infantil y Nefrología CNS",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.778015735655075,
+    "lon": -63.187656909941055,
+    "dir": "1er Anillo @ Calle Rafael Peña",
+    "desc": ""
+  },
+  {
+    "id": "680",
+    "name": "Hospital de la Mujer Dr. Percy Boland",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.778317463272522,
+    "lon": -63.18716313178515,
+    "dir": "Calle Rafael Peña @ 1er Anillo",
+    "desc": ""
+  },
+  {
+    "id": "720",
+    "name": "Hospital Romulo Gómez",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.89553737106597,
+    "lon": -63.32992136478424,
+    "dir": "a 2 cuadras de la Doble Vía a La Guardia",
+    "desc": ""
+  },
+  {
+    "id": "730",
+    "name": "Centro de Salud Perpetuo Socorro",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.77438393129546,
+    "lon": -63.20979057783677,
+    "dir": "Calle Dr. Walter Suarez @ Calle Dr. Leonor Ribera Arteaga",
+    "desc": "Entre 3er y 4to Anillo, zona Radial 21"
+  },
+  {
+    "id": "753",
+    "name": "Centro de Salud Integral DM-12",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.85689155913849,
+    "lon": -63.13825442882718,
+    "dir": "",
+    "desc": "\n"
+  },
+  {
+    "id": "802",
+    "name": "Hospital Municipal Plan 3000",
+    "category": "Hospitales y Centros de Salud",
+    "lat": -17.83917971927251,
+    "lon": -63.11013794921208,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "27",
+    "name": "Mercado Belén",
+    "category": "Mercados",
+    "lat": -17.755062685492067,
+    "lon": -63.1878823041916,
+    "dir": "Av. Radial 26 entre 3er y 4to anillo",
+    "desc": "Un mercado pequeño pero muy completo. Aquí encontrarás todo tipo de artículos en venta y también variedad de servicios. "
+  },
+  {
+    "id": "17",
+    "name": "Mercado Mutualista",
+    "category": "Mercados",
+    "lat": -17.763702888412833,
+    "lon": -63.16139583068751,
+    "dir": "Av Mutualista entre 3er anillo interno y externo",
+    "desc": "Aquí encontrarás todos los productos de la canasta familiar, además de ropas, zapatos, bebidas, refrescos, comidas, salones de belleza, libros, juegos, bancos, pollerias, billares, celulares, técnicos y todo lo que te podás imaginar. Amplio garaje para tu vehículo con cámaras de seguridad en todo el mercado!!!"
+  },
+  {
+    "id": "18",
+    "name": "Mercado Virgen de Luján",
+    "category": "Mercados",
+    "lat": -17.76047838785602,
+    "lon": -63.1281592465607,
+    "dir": "Entre Av. Virgen de Luján y canal Cotoca",
+    "desc": "Ofrecemos todo tipo de producto, canasta familiar, fotocopias, carnicería etc."
+  },
+  {
+    "id": "22",
+    "name": "Mercado Abasto",
+    "category": "Mercados",
+    "lat": -17.795256095616462,
+    "lon": -63.204643866980724,
+    "dir": "Av Piraí entre 3er anillo interno y externo",
+    "desc": "Ventas por mayor y menor de todo tipo de mercadería, a buenos precios."
+  },
+  {
+    "id": "24",
+    "name": "Mercado La Pampita",
+    "category": "Mercados",
+    "lat": -17.769143687844448,
+    "lon": -63.12233543152889,
+    "dir": "Av Las Pampas 2da cuadra entrando desde la Av Virgen de Cotoca",
+    "desc": "Asociación gremial de comerciantes, encuentra todo tipo de productos a buenos precios."
+  },
+  {
+    "id": "26",
+    "name": "Mercado 4 de Noviembre",
+    "category": "Mercados",
+    "lat": -17.777998271232665,
+    "lon": -63.20304178465625,
+    "dir": "3er anillo interno y Av. Centenario",
+    "desc": "Un placer y una felicidad  para todos nuestros  asociados que día a día  brillan y brindan con su gran servicio a nuestros vecinos y transeúntes, que  visitan nuestro mercado para encontrar variedad de artículos, alimentos y servicios.\n"
+  },
+  {
+    "id": "28",
+    "name": "Mercado el Bibosi",
+    "category": "Mercados",
+    "lat": -17.724353330305465,
+    "lon": -63.10977590007526,
+    "dir": "Zona noreste, barrio El Bibosi",
+    "desc": "Variedad de artículos en venta, patio de comidas y espacio para eventos"
+  },
+  {
+    "id": "29",
+    "name": "Mercado 7 Calles",
+    "category": "Mercados",
+    "lat": -17.786120470981512,
+    "lon": -63.18576659838757,
+    "dir": "Entre calle Isabel La Católica, Vallegrande, y Suárez de Figueroa",
+    "desc": "Este es otro lugar en el centro de la ciudad, con un nombre un poco engañoso. Esto se debe a que, si uno se para en medio de esta zona, podrá enumerar sólo seis calles que lo rodean. El dicho popular cuenta que originalmente la zona sí tenía, como su nombre lo indica, siete calles, siendo la séptima un pequeño callejón. Este separaba el terreno de un vecino, del cual se dice que arbitrariamente decidió cerrarlo.\n"
+  },
+  {
+    "id": "30",
+    "name": "Mercado Alto San Pedro",
+    "category": "Mercados",
+    "lat": -17.8112666128204,
+    "lon": -63.188775085246824,
+    "dir": "3er Anillo interno Av. Roque Aguilera",
+    "desc": "Asociación de Comerciantes del Alto San Pedro"
+  },
+  {
+    "id": "31",
+    "name": "Mercado Los Pocitos",
+    "category": "Mercados",
+    "lat": -17.841512825440446,
+    "lon": -63.11116311502087,
+    "dir": "Av. Paurito zona Plan 3000",
+    "desc": "Tenemos de todo desde tienda de zapatos y ropas hasta restaurantes y tienda de comestibles. Te esperamos!"
+  },
+  {
+    "id": "33",
+    "name": "Mercado Los Pozos",
+    "category": "Mercados",
+    "lat": -17.778484479609986,
+    "lon": -63.17763453142252,
+    "dir": "Zona del centro, calle Campero y Suárez Arana",
+    "desc": "Encontrá todo a buenos precios, en Mercado Los Pozos!!!"
+  },
+  {
+    "id": "34",
+    "name": "Mercado Nuevo",
+    "category": "Mercados",
+    "lat": -17.783674797234806,
+    "lon": -63.17849700668158,
+    "dir": "Zona del Centro, calle Cochabamba esq. Sucre",
+    "desc": "Aquí podrás degustar de nuestras comidas típicas y encontrar variedad de alimentos."
+  },
+  {
+    "id": "35",
+    "name": "Mercado Primavera",
+    "category": "Mercados",
+    "lat": -17.823230549726546,
+    "lon": -63.16432211534375,
+    "dir": "5to anillo y Av. Centinelas del Chaco",
+    "desc": "Encontrá todos los productos de la canasta familiar además de ropa, comida y bebidas al por mayor. Visitá Mercado Primavera, más cerca de ti."
+  },
+  {
+    "id": "101",
+    "name": "Mercado Florida",
+    "category": "Mercados",
+    "lat": -17.781545280180282,
+    "lon": -63.18785011768342,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "105",
+    "name": "Mercado Mayorista Nuevo Abasto",
+    "category": "Mercados",
+    "lat": -17.850727774432517,
+    "lon": -63.229376077651985,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "238",
+    "name": "Nuevo Mercado Los Pozos ",
+    "category": "Mercados",
+    "lat": -17.725433705339245,
+    "lon": -63.148185610771186,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "281",
+    "name": "Mercado Panamericano",
+    "category": "Mercados",
+    "lat": -17.744773081807693,
+    "lon": -63.113488554954536,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "339",
+    "name": "Nuevo Mercado La Ramada",
+    "category": "Mercados",
+    "lat": -17.836282821582888,
+    "lon": -63.213653303682804,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "369",
+    "name": "Mercado La Campana ",
+    "category": "Mercados",
+    "lat": -17.81819758668226,
+    "lon": -63.11820924282075,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "2123",
+    "name": "Mercado El Paraíso ",
+    "category": "Mercados",
+    "lat": -17.855233823222957,
+    "lon": -63.19934964011031,
+    "dir": "Av. Miguel de Cervantes, entre 7mo y 8vo Anillo",
+    "desc": "\n\n"
+  },
+  {
+    "id": "373",
+    "name": "Feria Barrio Lindo",
+    "category": "Mercados",
+    "lat": -17.790373935952218,
+    "lon": -63.15280437469483,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "397",
+    "name": "Feria Cumavi",
+    "category": "Mercados",
+    "lat": -17.797568820812657,
+    "lon": -63.13991568982601,
+    "dir": "",
+    "desc": "Feria de ropa americana "
+  },
+  {
+    "id": "405",
+    "name": "Mercado Nueva Esperanza",
+    "category": "Mercados",
+    "lat": -17.75987535479276,
+    "lon": -63.11586499214173,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "413",
+    "name": "Mercado La Morita",
+    "category": "Mercados",
+    "lat": -17.816450944593058,
+    "lon": -63.18770527839661,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "432",
+    "name": "Mercado Internacional",
+    "category": "Mercados",
+    "lat": -17.79593966651228,
+    "lon": -63.10601055622101,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "436",
+    "name": "Mercado 24 de Junio",
+    "category": "Mercados",
+    "lat": -17.730992368502307,
+    "lon": -63.121502995491035,
+    "dir": "",
+    "desc": "Barrio Virgen de  Guadalupe"
+  },
+  {
+    "id": "434",
+    "name": "Mercado 2 de Agosto",
+    "category": "Mercados",
+    "lat": -17.733936120902293,
+    "lon": -63.14289093017579,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "32",
+    "name": "Antiguo Mercado La Ramada",
+    "category": "Mercados",
+    "lat": -17.796382118723535,
+    "lon": -63.189510531528356,
+    "dir": "Calle Terebinto esq. calle Amboró",
+    "desc": "El mercado NATURAL más GRANDE de Santa Cruz.\nVentas por mayor y menor de todo tipo de mercaderia, a buenos precios.\nLibrerias abiertas desde las 6 a.m. 😱"
+  },
+  {
+    "id": "502",
+    "name": "Mercado Guapurú",
+    "category": "Mercados",
+    "lat": -17.851917646898215,
+    "lon": -63.100071557890296,
+    "dir": "Av. Paurito @ Av. El Quior",
+    "desc": ""
+  },
+  {
+    "id": "517",
+    "name": "Mercado El Quior",
+    "category": "Mercados",
+    "lat": -17.847070757963102,
+    "lon": -63.08139860630036,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "536",
+    "name": "Mercado El Recreo",
+    "category": "Mercados",
+    "lat": -17.88561384834585,
+    "lon": -63.095201253891,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "545",
+    "name": "Mercado Mcpal. Magisterio Sur",
+    "category": "Mercados",
+    "lat": -17.870925673985784,
+    "lon": -63.178253209801916,
+    "dir": "Sobre Radial 5 de Octubre , zona Palmasola",
+    "desc": ""
+  },
+  {
+    "id": "549",
+    "name": "Mercado Mcpal. Los Tusequis",
+    "category": "Mercados",
+    "lat": -17.74161019931537,
+    "lon": -63.154263054720836,
+    "dir": "Av. El Carmen entre 5to y 6to Anillo, zona Av. Alemana",
+    "desc": ""
+  },
+  {
+    "id": "577",
+    "name": "Mercado San Jorge",
+    "category": "Mercados",
+    "lat": -17.780666994970264,
+    "lon": -63.118518367409706,
+    "dir": "Av. Canal Guapilo @ zona Av. Jenecherú",
+    "desc": ""
+  },
+  {
+    "id": "578",
+    "name": "Mercado Chacarilla",
+    "category": "Mercados",
+    "lat": -17.779402717648644,
+    "lon": -63.172350972890854,
+    "dir": "Barrio CONAVI, Calle Dr. Gilberto Molina @ Calle Pedro Almaraz",
+    "desc": ""
+  },
+  {
+    "id": "590",
+    "name": "Mercado Modelo Plan 3000",
+    "category": "Mercados",
+    "lat": -17.821813353373116,
+    "lon": -63.1470537185669,
+    "dir": "Av. San Aurelio @ zona 6to Anillo",
+    "desc": ""
+  },
+  {
+    "id": "606",
+    "name": "Mercado Nueva Esperanza - 16 de Julio",
+    "category": "Mercados",
+    "lat": -17.73507967892597,
+    "lon": -63.111901357769966,
+    "dir": "zona Av. Virgen de Lujan @ Barrio Magisterio",
+    "desc": ""
+  },
+  {
+    "id": "411",
+    "name": "SuperMercado EMAPA",
+    "category": "Mercados",
+    "lat": -17.76007445766719,
+    "lon": -63.166918158531196,
+    "dir": "Av. Alemana @ 3er Anillo",
+    "desc": ""
+  },
+  {
+    "id": "731",
+    "name": "Mercado Fortaleza",
+    "category": "Mercados",
+    "lat": -17.863044185438817,
+    "lon": -63.160648947365715,
+    "dir": "Av. Bolivia",
+    "desc": ""
+  },
+  {
+    "id": "2147",
+    "name": "Mercado Santa Cruz ",
+    "category": "Mercados",
+    "lat": -17.851387255105724,
+    "lon": -63.181822330337134,
+    "dir": "Av. Santos Dumont @ Av. Nuevo Palmar",
+    "desc": ""
+  },
+  {
+    "id": "53",
+    "name": "Plaza Barrientos ",
+    "category": "Plazas y Parques",
+    "lat": -17.807499828590544,
+    "lon": -63.18149735645284,
+    "dir": "Avenida Santos Dumont detrás del mercado Ramafa",
+    "desc": "Invitamos a las familias a acercarse a estos espacios para disfrutar del aire libre"
+  },
+  {
+    "id": "52",
+    "name": "Plaza 24 de Septiembre",
+    "category": "Plazas y Parques",
+    "lat": -17.783294538837307,
+    "lon": -63.18206571597221,
+    "dir": "Centro de la ciudad (entre calle 24 de Septiembre y Libertad)",
+    "desc": "La plaza central es la cuna de la centenaria ciudad que hace más de 400 años descansa sobre los arenales escogidos por Lorenzo Suárez de Figueroa y Gonzalo Soliz de Holguín como el emplazamiento final de la histórica ciudad en la conquista platense.\n\nLas primeras casas y calles de la Santa Cruz de antaño surgieron en torno a la plaza central, actualmente la plaza 24 de Septiembre llamada así en honor al grito emancipador de 1810 todavía está rodeada de edificaciones históricas importantes."
+  },
+  {
+    "id": "54",
+    "name": "Plaza El Mechero",
+    "category": "Plazas y Parques",
+    "lat": -17.836404376063584,
+    "lon": -63.12558629787656,
+    "dir": "Final de la Av. El Mechero, esq calle 13 de Julio ",
+    "desc": "Invitamos a las familias a acercarse a estos espacios para disfrutar del aire libre."
+  },
+  {
+    "id": "55",
+    "name": "Plaza Villa 1ro de Mayo",
+    "category": "Plazas y Parques",
+    "lat": -17.794195158794277,
+    "lon": -63.13460560840668,
+    "dir": "Intersección de las calles 1ro de Mayo Oeste y 1ro de Mayo Este",
+    "desc": "Invitamos a las familias a acercarse a estos espacios para disfrutar del aire libre"
+  },
+  {
+    "id": "56",
+    "name": "Plazuela Blacutt",
+    "category": "Plazas y Parques",
+    "lat": -17.794220587829642,
+    "lon": -63.180730335231544,
+    "dir": "Entre las Av. René Moreno y la Av. Velarde, a 2 cuadras del 1er Anillo",
+    "desc": "Se abre al este de la avenida ´´Las Américas``, una sombreada calzada alrededor de la cual se dispone uno de los barrios residenciales más elegantes de la ciudad. En los alrededores de la plazuela, cuenta con restaurantes de comida rápida, supermercado, farmacia; es un lugar de esparcimiento.  En la acera sur, se encuentran buses turísticos que ofrecen servicios en la ciudad y otros."
+  },
+  {
+    "id": "57",
+    "name": "Plazuela Calleja",
+    "category": "Plazas y Parques",
+    "lat": -17.785993149621735,
+    "lon": -63.1743726525864,
+    "dir": "Zona del centro entre la calle Cobija y Warnes",
+    "desc": "Ha sido denominada también como el “Centro de América del Sur”, por parte de arquitectos, filósofos, poetas gracias a que es el punto intermedio entre borde y borde de Sudamérica. Este centro recreacional es un legado de la familia Callejas, Froilán Callejas un patriarca que construyó su casa quinta con un pozo de agua y que a lo largo de los años se fue consagrado como el lugar de encuentro de los carnavaleros que era anunciado por el pregonero, un camba a caballo."
+  },
+  {
+    "id": "310",
+    "name": "Plaza Mario Gutiérrez ",
+    "category": "Plazas y Parques",
+    "lat": -17.802830069231202,
+    "lon": -63.183456659317024,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "348",
+    "name": "Plaza Oruro",
+    "category": "Plazas y Parques",
+    "lat": -17.80423295446576,
+    "lon": -63.19872446358204,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "318",
+    "name": "Plaza Urkupiña",
+    "category": "Plazas y Parques",
+    "lat": -17.754025671362324,
+    "lon": -63.107737898826606,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "2061",
+    "name": "Plaza de armas, B/las pampitas. zona pampa de la isla ",
+    "category": "Plazas y Parques",
+    "lat": -17.763758461374685,
+    "lon": -63.124920129776,
+    "dir": "",
+    "desc": "pasan los micros 132 verde  y 88 azul"
+  },
+  {
+    "id": "464",
+    "name": "Plazuela La Luna",
+    "category": "Plazas y Parques",
+    "lat": -17.79504578715147,
+    "lon": -63.202387690544136,
+    "dir": "Calle Cruz del sur, zona 3er Anillo y Av.Piraí",
+    "desc": ""
+  },
+  {
+    "id": "475",
+    "name": "Plaza Principal de Cotoca",
+    "category": "Plazas y Parques",
+    "lat": -17.749568286328785,
+    "lon": -62.8687721863389,
+    "dir": "",
+    "desc": "Plaza Principal de Cotoca"
+  },
+  {
+    "id": "675",
+    "name": "Plaza Estación Argentina",
+    "category": "Plazas y Parques",
+    "lat": -17.809019965413558,
+    "lon": -63.14613638750255,
+    "dir": "zona Av. El Trillo @ Radial 10",
+    "desc": ""
+  },
+  {
+    "id": "147",
+    "name": "Aeropuerto Internacional Viru Viru",
+    "category": "Terminales y Transporte",
+    "lat": -17.64758052268544,
+    "lon": -63.14014434814454,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "135",
+    "name": "Aeropuerto El Trompillo",
+    "category": "Terminales y Transporte",
+    "lat": -17.80116446844555,
+    "lon": -63.17582309246064,
+    "dir": "",
+    "desc": ""
+  },
+  {
+    "id": "361",
+    "name": "Terminal Bimodal",
+    "category": "Terminales y Transporte",
+    "lat": -17.78922775543083,
+    "lon": -63.16210627555848,
+    "dir": "",
+    "desc": "Terminal de Buses y Ferroviaria"
+  }
+]
