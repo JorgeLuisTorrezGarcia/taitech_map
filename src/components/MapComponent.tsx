@@ -92,7 +92,7 @@ export const MapComponent: React.FC<MapComponentProps> = ({
       style: MAP_STYLES[currentStyle].url,
       center: [-63.1821, -17.7833],
       zoom: 12.5,
-      maxZoom: 19,
+      maxZoom: 24,
       minZoom: 9,
       attributionControl: false,
     });
@@ -174,6 +174,36 @@ export const MapComponent: React.FC<MapComponentProps> = ({
         },
       });
 
+      // 3D Buildings (fill-extrusion)
+map.addLayer({
+    id: '3d-buildings',
+    type: 'fill-extrusion',
+    source: 'openfreemap',          // ← ID del source vectorial de tu estilo base
+    'source-layer': 'building',
+    minzoom: 14,
+    filter: ['!=', ['get', 'hide_3d'], true],
+    paint: {
+        'fill-extrusion-color': [
+            'interpolate', ['linear'], ['get', 'render_height'],
+            0, '#d1d5db',
+            100, '#93c5fd',
+            250, '#3b82f6',
+            500, '#1d4ed8'
+        ],
+        'fill-extrusion-height': [
+            'interpolate', ['linear'], ['zoom'],
+            14, 0,
+            15, ['get', 'render_height']
+        ],
+        'fill-extrusion-base': [
+            'interpolate', ['linear'], ['zoom'],
+            14, 0,
+            15, ['get', 'render_min_height']
+        ],
+        'fill-extrusion-opacity': 0.85
+    }
+});   
+      
       // Base Routes Line Layer
       map.addLayer({
         id: 'routes-line-base',

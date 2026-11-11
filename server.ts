@@ -207,7 +207,7 @@ app.post('/api/agent/chat', async (req, res) => {
     try {
       response = await fetchWithTimeout(() =>
         ai!.models.generateContent({
-          model: 'gemini-3.8-flash',
+          model: 'gemini-3.1-flash-lite',
           contents,
           config: {
             systemInstruction: SYSTEM_INSTRUCTION,
@@ -220,7 +220,7 @@ app.post('/api/agent/chat', async (req, res) => {
       try {
         response = await fetchWithTimeout(() =>
           ai!.models.generateContent({
-            model: 'gemini-flash-latest',
+            model: 'gemini-3.5-flash-lite',
             contents,
             config: {
               systemInstruction: SYSTEM_INSTRUCTION,
